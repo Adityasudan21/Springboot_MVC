@@ -10,7 +10,7 @@
     <!--    <h2>Result is:<%= session.getAttribute("result") %></h2> -->
 
 
-       <!--  using jstl tags to give the information regarding result -->
+       <!--  using JSTL (Java Server Template Library) tags to give the information regarding result -->
         <h2>Result is: ${result}  </h2>
 
     </body>
